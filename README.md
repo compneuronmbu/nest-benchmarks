@@ -1,5 +1,11 @@
 # NEST benchmarks
 
+## NB! This repository is no longer updated!
+
+We have moved our benchmarking efforts to GIN on G-node. For more information, contact stine.brekke.vennemo@nmbu.no.
+
+
+
 To run the benchmarks you need to clone the github repository [nest-benchmarks](https://github.com/compneuronmbu/nest-benchmarks.git)
 
 This will create the folder `nest-benchmarks`, and it contains all JUBE files and sli scripts etc. needed to run the benchmarks. On the same level as `nest-benchmarks` you also need to create a folder called `BenchWork`, where NEST will be installed, and where the JUBE files will be generated.
